@@ -1,0 +1,15 @@
+britain
+london
+russia
+moscow
+estonia
+tallin
+latvia
+riga
+*****
+britain
+4
+russia
+1
+latvia
+4
